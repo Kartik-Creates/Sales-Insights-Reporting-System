@@ -1,0 +1,2 @@
+# Add this to requirements.txt
+ faker>=18.0.0 
